@@ -1,0 +1,335 @@
+﻿The Growth of Plants watered by different kinds of solutions
+
+
+
+
+13 March 2021, Group 
+Project Members:
+	CHAN Kwan Yue
+	1155144322
+	
+
+	CHAN Hoi Ching
+	1155125751
+	
+
+	LEUNG Wan Hoi
+	1155142877
+	
+
+	LI Sheng Wei
+	1155143605
+	
+
+	TSANG Chor Ki
+	1155143026
+	
+
+
+
+Background(17/3/2021)(3paragraphs)
+Importance→ Story→ The reason why we wanna do the expt
+Vegetables play an important role in our diet. It provides dietary fiber, minerals and vitamins which are necessary for us to maintain health. Nowadays people pay more attention to maintaining health, the quality of vegetables are therefore becoming a serious issue. As a result, agricultural chemicals are concerned more frequently. 
+To solve this problem, kitchen gardens where people grow their own vegetables at home become popular. Since they can control the amount of agricultural chemicals, the quality of vegetables is guaranteed. However, with limited living areas in Hong Kong, kitchen gardens are not possible for most of the families in Hong Kong. Instead, hydroponics, a method of growing plants without soil which requires less space, is more suitable for families in Hong Kong.
+Quality of water is one of the major factors in hydroponics. Therefore, we are interested in the effect on plants of using different solutions. To figure it out, we carried out this study to find out the difference in growing plants by using different solutions.
+
+
+Define the objectives of the experiment (17/3/2021)
+
+
+The purpose of the experiment is to discover the conditions that favour the growth of the green beans most. 3 conditions are chosen in this experiment, which are distilled water, mineral water and tap water. The substances are poured into 3 set-up separately.The height of green beans is measured at last. The taller the height indicates the most suitable condition for the green beans.
+
+
+
+
+
+
+Identify all sources of variations(20/3/2021)
+A. treatment factors and their levels 
+
+
+Our three chosen types of treatment factors (solutions) are tap water, distilled water, and mineral water. To ensure the fairness of the experiment and minimize the error source, both distilled water and mineral water are bought from Watsons. The effect acting on the mung beans’ germination varies with different solutions. Therefore, the height of mung bean sprouts indicates the extent of mung beans' germination.
+
+
+
+
+
+
+B. experiment units
+
+
+We have three experimental units in total, each of them consists of 15 mung beans, 4 cotton balls, with a plastic cup as the container. 5 mL of solution per two days is poured into the cup from day 1 to day 10 once. In this experiment, the independent variable is the kind of solution added and the dependent variable is the height of the mung bean sprouts that can grow within 10 days. Furthermore, The control variables are the volume of different solutions added, the number of mung beans, the days we plant the beans. 
+
+
+
+
+C. blocking factors, noise factors, and covariates
+
+
+Blocking factor： the first one is the different size of beans. Although beans come from the same brand, the size of each bean is different. When beans are planted, the growth speed of smaller size beans are predicted to be lower than the bigger size beans. Also , the quality of each individual bean is different which causes the different growth speed of different mung beans.
+
+
+
+
+Noise factor:  There exist several noise factors that reduce the accuracy of the experiment, including the temperature, sun light, and humidity. There are difficulties to ensure the surrounding temperature to be the same and bean is a warm-weather plant. The warmer the temperature, the more favorable for its germination. Meanwhile, the identicalness of each bean cannot be guaranteed, each bean is grown independently so there is not a standard to measure and select the desired quality even beans are bought from the same brand. Also, humidity and sunlight are other external factors that lead to inaccuracy.
+
+
+
+
+Covariates:  the different quality of beans in the same brand brings different growth speed to the experiment. To prevent this situation, the random sampling is used in the experiment.
+
+
+
+
+ 
+
+
+
+
+list out and do sth to reduce the noise factors 
+(temperature, quality of beans)
+
+
+
+
+Choose a rule for assigning the experimental units to the treatments.(23/3/2021) 
+
+
+The simple random sampling is used in the experiment. First, one random brand of mung bean is selected and all of the mung bean samples are chosen in this brand of mung bean.Second, one random brand of water which is Watsons is selected, and the distilled water and mineral water are selected from Watsons brand. Next, the first 180 mung bean samples are selected from the population and the equal observation numbers are applied into each three treatment factor levels, which are 60 observations of each condition. Therefore, total 180 observations will be the data of the experiment for data analysis.
+
+
+Quality 
+To reduce the inaccuracy brought by the unstandardized quality of mung beans, we will only select 30 data with higher height out of 60 as the input for calculation.The numbers of observation of each condition is designed for fixing the approximately normal distribution with n >= 30. Thus, the extreme data from low-quality beans could be eliminated. Having a total of 30 data, we can then calculate a more accurate sample mean and variance to estimate the population mean and variance.
+ 
+
+
+Temperature and humidity
+To reduce the difference of the surrounding temperature and humidity in each set-up, the plastic cups which include the mung beans are put into a cardboard box. It is placed in the shade and cool place for a better-quality growth of the mung beans. Therefore the temperature and humanity of the set-up are similar and the error is minimized.
+
+
+Sunlight
+Since the sunlight level is different everyday, mung beans samples would not be put under the sunlight to reduce the unstable sunlight level. The experiment is set indoors and is applied to the light from the house lamp to have photosynthesis, and reduces the error.
+
+
+Specify the measurements to be made(20/3/2021)
+15 mung beans will be placed in a cup and each experimental unit will have 4 cups, a total of 60 mung beans to be tested for each experimental unit. For each cup, there will be four cotton balls, 15ml of solution on the first day and 5ml of solution will be added per two days. After 10 days, mung bean sprouts will be removed from the cup and their length from root to leaves of head will be measured.
+ 
+The unit to be used for measuring the length of mung bean sprouts will be centimeter(cm) and it will be corrected to the nearest 0.1cm. The digit after the first decimal point of the data will be neglected since the difference in second decimal point or smaller for vigna radiata which is around 20cm to 150cm height is not significant.
+ 
+For plants, the taller it is, the more sunlight it can absorb for photosynthesis and it will be able to produce more starch to survive and reproduce which means a better growth. Also the taller the mung bean sprouts the more eatable part which means a better growth. Therefore the length of the mung bean sprout reflects the growth of the mung bean, the longer the mung bean sprouts the better of its growth.
+
+
+
+
+Experimental Procedure(23/3/2021)
+The procedures are listed below:
+1.          Take 60 mung beans for each set-up. There are 60 mung beans taken.
+2.          Measure the height of each green bean sprout which is supposed to be 0cm as the green beans have not grown.
+3.          Get a transparent plastic cup for each set-up, then put some cotton into the cup.
+4.          Pour 15ml of each solution into the cotton. And Soak the green beans into the cotton.
+5.          Wait for 10 days and Pour 5ml of solutions into the cup per two days.
+6.   Measure the increased height from the root to the head of the leaves of the 30 mung bean plants of each set-up and record the height change.
+
+
+
+
+
+
+The Anticipated Difficulties
+There are several anticipated difficulties for our experiment.
+The first difficulty would be the contact surface area of the bean to the wet cotton. Directly putting the mung beans into the water may make the mung beans die because the nutrition in the mung beans may come out from the bean by diffusion and osmosis. Thus, cotton should be wet and mung beans ought to be put into the wet cotton. However, putting into wet cotton may decrease the contact surface area of the bean to the wet cotton.
+The second difficulty would be the mung bean quality. Some green beans may not be able to grow due to several reasons. For example, some mung bean interior part may possibly be infected by the microorganisms ranging from bacteria to fungi, from mould to worms. Also, some mung beans may not contain enough nutrition to grow. Last but not least, some mung beans may be too old as they may have been harvested for a long time already.
+The third difficulty may be temperature and moisture. As researchers are not able to use the incubator, which may provide the mung beans a stable environment with constant temperature and moisture to grow the mung beans. Therefore, the environment of mung bean growth may not be stable and temperature as well as moisture may adversely affect the experiment results.
+With the mentioned difficulties anticipated, researchers decided to work on the regulation about how to improve the experiment. 
+For the first difficulty, in order to maintain the fairness of the experiment, all of the mung beans should be soaked into the wet cotton by researching pressing the mung beans slightly to ensure the enough contact surface area of the mung beans to the water. The action may increase the chance of solution entering the mung beans to make the mung beans grow. For the second difficulty, though there only thirty mung bean length growth have to be recorded, sixty mung beans are planted. By growing more mung beans, some of them may be spared. For instance, if there are ten defected mung beans in our set-ups, there would still be fifty mung beans for our experiment. This regulation may effectively prevent the experiment result being affected by the mung bean quality. For the third difficulty, researchers have to find a place simulating the incubator with the intention of providing the mung beans with a relatively stable environment, researchers would keep track on the growing conditions of the mung beans by different instrument such as thermometer.
+
+
+Pilot experiment(17/3/2021) Leo
+The procedures are simulated and listed below:
+1.          Take 15 green beans for each set-up. There are 15 green beans taken.
+2.          Measure the height of each green bean sprout which is supposed to be 0cm as the green beans have not grown.
+3.          Get a transparent plastic cup for each set-up, then put some cotton into the cup.
+4.          Pour some each solution into the cotton. And Soak the green beans into the cotton.
+5.          Wait for 5 days and Pour some solution into the cup everyday.
+6.   Measure the height increase and record the height change.
+
+
+As Mentioned, the pilot experiment is the simulation of the actual experiment. The pilot experiment put focus on the procedure of the experiment. There are several differences between the pilot and the actual experiment. 
+First of all, planting days of the pilot experiment are fewer, which is only 5 days, while the actual planting days of the experiment would be 11days. After the pilot experiment is done, it is found that the increase of the green bean sprout is not distinct enough. Therefore, the research team tends to give more time for the green beans to grow with the intention of giving out a more distinct result. 
+Secondly, the amount of solution used in the actual experiment would be more precise. The research team does not measure how much solution is being used to soak the green beans into the cotton and to water the green beans everyday. If the solution amount is not precise enough, it may become a source of error. Therefore, the research team tends to set-up a precise amount of water being used in the experiment.
+
+
+Experimental Error Encounter
+
+
+After the experiment, we found out that mung beans height in one of our setups has huge variations in comparison with others. After our reflection, several reasons are concluded as below.
+
+
+Firstly, due to the lack of precise measuring equipment, more than 5mL of water is mistakenly added to the beans. Excessive water may easily turn all beans rotten and become dead. Thus a majority of mung beans cannot grow properly and lead to that experimental error. The volume of water added should be standardized to 5mL per two days.
+
+
+Secondly, another possible reason could be that the cup was fallen accidentally during the experiment so the nutrients stored inside the plant water is lost. That loss of nutrients hinders the growth of mung beans and increases the external factors that affect beans' growth.
+
+
+Difficulties encounter(28/3/2021)
+Coke Zero is a solution with sweeteners, flavorings and acidity regulators which will easily attract insects. Insects for example housefly and ant may bite the mung bean sprouts. Also, insects will bring bacterial pathogens and lead to illness and death of mung bean sprouts. Insects may also drown in the solution and the dead body of the insects will pollute the solution. 
+Moreover, the mung beans poured with zero are liable to mildew. They can be grown in the first few days. However, because of the high concentration of acidic solution, they are thick-stemmed while their roots are short. It is a growth inhibition for the mung beans. At last they grew mouldy.
+
+
+We have difficulties in ensuring the effect of photosynthesis is negligible since it is impossible to remove all light sources away from the beans. Furthermore, the luminosity of light bulbs varies and hence increases our error source. The larger amount the light mung bean leaves can absorb, the faster the photosynthetic rate and then the more glucose it produces for growth.As a result, we assume that photosynthesis plays no effect in the length of mung beans grown. 
+
+
+
+
+
+
+Data Processing(30/3/2021-7/4/2021)
+For the data management part, Excel 2020 would be used to organise our experiment data input. Meanwhile, for the data analysis, SAS University Edition would be used to visualize the statistical analysis as well as to do the hypothesis testing.
+A graph would be used to show our data distribution. (Maybe QQ plot)  
+
+
+A one-way classification model, Y_ij=μ+α_i+ε_ij, where μ means the length of original green bean sprouts and α_i means the increased length of the green bean sprouts. The model may be used for us to identify the fixed effects done by our experimental treatment. There would be one factor making the sample means of each set-up distinct from the others. The one-way analysis of variance (ANOVA). The level of significance is to be determined. 
+  
+
+From the data histogram, the distribution of mung beans is approximately normal distribution. Therefore, the normal distribution assumption is applied in to the following data analysis. 
+
+
+  
+
+  
+
+The following box plot interprets the above data generated from SAS of the length of mung beans by three different conditions.
+  
+
+
+
+The box plot shows that mineral water has a larger dispersion in the length of mung beans that have grown, which may be caused by imbalance of nutrients and minerals in mineral water. Meanwhile, the length of mung beans in three conditions are quite comparable and therefore the following hypothesis testing is applied to confirm our treatment is effective and results are relatively accurate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Results(30/3/2021-7/4/2021)
+
+
+1. mean of different conditions are different( done)
+2.Find the population deviation equal assumption (tap water and distilled water  are done,   
+need one more tap water and mineral water =>  tap=distilled=mineral(population deviation)
+
+
+3.find the mean different of each two pair
+
+
+4. find the higher growth condition by t test
+SAS University Edition would be used to output the summary statistics about the green bean sprout length growth under different conditions. 
+
+
+
+
+
+
+
+
+References 
+
+
+Dean, A., Voss, D., & Draguljić, D. (2017). Design and analysis of experiments. New York: Springer.
+Hayes, A. (2021, March 30). How simple random samples work. Retrieved April 13, 2021, from https://www.investopedia.com/terms/s/simple-random-sample.asp
+Weisstein, Eric W. "Bonferroni Correction." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/BonferroniCorrection.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14/3/2021 2130
+
+
+1. Choosing the topic
+2. Explaining why topic chosen
+3. Mentioning Experiment Set-up 
+4. Purchasing the experiment materials
+5. Describing the agenda
+6. Assigning the work
+7. Dismiss
+
+17/3/2021 2300
+
+
+   1. Brief Experiment
+   2. Making the appointment time with professor
+   3. Assigning the work
+   4. Dismiss
+
+
+19/3/2021 1015
+   1. Brief Experiment and solve related problems
+   2. Informing Professor what our topic is and what we would be doing by showing our schedule
+   3. Assigning the work
+   4. Dismiss
+
+
+19/3/2021 2300
+   1. Pointing out the working and experimental problems
+   2. Find out anticipated problems
+   3. Assigning work
+   4. Dismiss
+
+
+23/3/2021 2300
+   1. Pointing out the working problems
+   2. Assigning work
+   3. Dismiss
